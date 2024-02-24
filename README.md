@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Jorge
 
 - 🔭 I’m currently studing on UPV
 - 🌱 I’m currently learning Android Studio - Kotlin - ZMQ
